@@ -1,0 +1,4 @@
+config:
+  server:
+    order-key: Hello, from Config Server order microservices
+    
