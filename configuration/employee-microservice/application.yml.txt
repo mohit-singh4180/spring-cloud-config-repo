@@ -1,0 +1,4 @@
+config:
+  server:
+    employee-key: Hello, from Config Server
+    
